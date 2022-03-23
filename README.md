@@ -1,2 +1,2 @@
 # unit-converter-app
-An useless app that just convert kg values to pounds
+An useless app that just converts kg values to pounds
